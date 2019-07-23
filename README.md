@@ -9,7 +9,7 @@
 <img src=C:\Users\this pc\Documents\GitHub\christabelosco.github.io\project alt="=me and friends"
 <img src=C:\Users\this pc\Documents\GitHub\christabelosco.github.io\project alt="=me"
 <h2 style="color: green;">contact christabelnnabueze@gmail.com
- Facebook-Belosco Nnabueze
- Twitter-Christabel Nnabueze
+  Twitter-Christabel Nnabueze
+  Facebook-Belosco Nnabueze
  Instagram-thechristabelnnabueze
  LinkedIn-Christabel Chidera</h2>
